@@ -20,3 +20,4 @@ Video of Code Demonstration
 
 # Part B
 
+See Textbooks_Are_All_You_Need_Assignment.ipynb
