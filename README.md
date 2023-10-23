@@ -16,7 +16,7 @@ Medium article:
 
 
 Video of Code Demonstration
-[]()
+[nanoGPT code explained](https://youtu.be/_YfrnmlKjpc)
 
 # Part B
 
